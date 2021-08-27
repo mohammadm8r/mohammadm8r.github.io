@@ -85,7 +85,6 @@ author:
   bio              : "I am a IT Engineering Graduate from the Amirkabir University of Technology."
   location         : "Iran, Tehran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "rezaeim1376@gmail.com"
   uri              :
   bitbucket        :
@@ -100,7 +99,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohammad-mr8/"
+  linkedin         : "mohammad-mr8"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
