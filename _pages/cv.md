@@ -11,37 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in IT Engineering, Amirkabir University of Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2021: Associate Product Owner
+  * Alibaba Travels Co.
+  * Duties included:
+    * Holding agile ceremonies (Daily, Refinment, Sprint Review, Retrospective and Planning meetings) in team
+    * Requirements analysis and feature definition
+    * Keeping the backlog up to date and restructure the roadmap if needed
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020: Technical Talent Acquisition Specialist
+  _(My positioin name changed to "**Next Generation Builder** from August 2020)_
+  * Alibaba Travels Co.
+  * Duties included:
+    * Counseling fresh graduates and students to find their best role in the organization
+    * Preparing and holding talks on various topics to introduce the career culture and different technologies and positions to students and also instilling the culture of knowledge sharing
+    * Holding camps and workshops to preparing students and fresh graduates to enter the workspace
+    * Sourcing and screening CVs
+    * Phone interview and looking for complementary information
   
 Skills
 ======
-* Skill 1
+* UX Design (
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +52,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
